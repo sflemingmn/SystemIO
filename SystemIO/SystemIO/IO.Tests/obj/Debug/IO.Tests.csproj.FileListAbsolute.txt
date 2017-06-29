@@ -1,0 +1,9 @@
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\bin\Debug\IO.Tests.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\bin\Debug\IO.Tests.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\bin\Debug\nunit.framework.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\bin\Debug\SystemIO.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\bin\Debug\SystemIO.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\bin\Debug\nunit.framework.xml
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\obj\Debug\IO.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\obj\Debug\IO.Tests.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\IO.Tests\obj\Debug\IO.Tests.pdb

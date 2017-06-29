@@ -1,0 +1,12 @@
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\SystemIO\bin\Debug\SystemIO.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\SystemIO\bin\Debug\SystemIO.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\SystemIO\bin\Debug\SystemIO.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\SystemIO\obj\Debug\SystemIO.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\SystemIO\obj\Debug\SystemIO.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\SystemIO\SystemIO\SystemIO\obj\Debug\SystemIO.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\SystemIO\SystemIO\SystemIO\bin\Debug\SystemIO.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\SystemIO\SystemIO\SystemIO\obj\Debug\SystemIO.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\SystemIO\SystemIO\SystemIO\obj\Debug\SystemIO.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\SystemIO\SystemIO\SystemIO\bin\Debug\SystemIO.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\SystemIO\SystemIO\SystemIO\obj\Debug\SystemIO.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\SystemIO\SystemIO\SystemIO\obj\Debug\SystemIO.pdb

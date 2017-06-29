@@ -1,0 +1,2 @@
+FirstName,LastName,MAjor,GPA
+Eric,Wise,Computer,3.5
